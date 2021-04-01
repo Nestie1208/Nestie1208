@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Tune in from your preferred device across Southeast Asia to connect\, collaborate and learn something new at AWS Summit Online ASEAN this May.\n\n----------------------------------------\n\nTiming:\n\nSingapore / Malaysia / Philippines 10:00am - 4:00pm (SGT/MYT/PHT)\n\nIndonesia 9:00am - 3:00pm (WIB)\n\nThailand / Vietnam 9:00am - 3:00pm (ICT)\n\nPakistan 7:00am - 1:00pm (PKT)\n\n----------------------------------------\n\nView latest agenda at https://aws.amazon.com/events/summits/online/asean/#agenda\n\nAccess the event at https://summit-asean.virtual.awsevents.com/\n
+DTSTART:20210518T020000Z
+DTEND:20210519T080000Z
+LOCATION:Online
+SUMMARY;LANGUAGE=en-us:AWS Summit Online ASEAN 2021
+END:VEVENT
+END:VCALENDAR
